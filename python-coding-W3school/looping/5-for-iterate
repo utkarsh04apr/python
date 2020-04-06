@@ -1,0 +1,8 @@
+word = "qwerty"
+for letter in word:
+	print(letter)
+print()
+fruits = ['apple', 'banana', 'mango', 'orange']
+for fruit in fruits:
+	print(fruit)
+print("good bye")
